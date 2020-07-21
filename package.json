@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "Faker": "^0.7.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mysql2": "^2.1.0",
     "sequelize": "^6.2.0"
   }
